@@ -1,1 +1,6 @@
 .github/**
+
+#ignoring csv files
+
+*.csv
+
